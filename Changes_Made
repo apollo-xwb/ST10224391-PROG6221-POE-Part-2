@@ -1,0 +1,9 @@
+Based on the feedback I received from my Part 1, I have made some changes as advised.
+I've overalled the format by using various colour, headings and borders in order to enhance the visual appeal. 
+I made sure that there was better error handling taking place throughout the app to guide users into 
+a more seamless experience. Users are now notified whenever an error is made. The readme file is now 
+far more comprehensible and includes instructions detailing how to install the project, which
+ dependencies might be needed etc. I have also made sure to include some comments that follow 
+internationallly accepted coding standards. As of now, the program will support unlimited recipes, 
+will display the recipes in an alaphabetic manner, calculates calories and will alert the user if 
+the calories of the meal exceed 300.

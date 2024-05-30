@@ -1,3 +1,11 @@
+//REFERENCES
+//- Troelsen, A.and Japikse, P. 2021. Pro C# 9 with .NET 5: Foundational Principles and Practices in Programming. 10th ed. Apress.
+//- Proud, Nick. 2021. "Beginner's Guide to Exception Handling in C#." YouTube video, 26:12.Posted by Nick Proud. January 21, 2021. https://www.youtube.com/watch?v=T_kOi6J0040.
+//- C# 9 and .NET 5 – Modern Cross-Platform Development: Build intelligent apps, websites, and services with ASP.NET Core 5, Blazor, Entity Framework Core, and ML.NET using Visual Studio Code" by Mark J. Price.
+//- C# 9.0 in a Nutshell: The Definitive Reference" by Joseph Albahari and Eric Johannsen.
+//- Programming C# 8.0: Build Cloud, Web, and Desktop Applications" by Ian Griffiths.
+//- C# 9.0 Pocket Reference: Instant Help for C# 9.0 Programmers" by Joseph Albahari.
+
 #1 Recipe App
 
 The Recipe App is an application that is console-based. This app allows users to able to manage their recipes with ease.
@@ -89,3 +97,5 @@ Recipe added successfully!
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+
